@@ -1,0 +1,8 @@
+.DS_Store
+.vs/
+Library/
+Logs/
+Temp/
+obj/
+summaries/
+models/
